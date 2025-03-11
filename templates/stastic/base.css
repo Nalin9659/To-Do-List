@@ -1,0 +1,20 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Container */
+.container {
+    margin-top: 20px;
+}
+
+/* Button Styles */
+.btn {
+    border-radius: 5px;
+}
